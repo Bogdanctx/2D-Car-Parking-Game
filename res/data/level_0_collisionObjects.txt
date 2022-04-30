@@ -1,0 +1,9 @@
+3
+60 0 1 800
+700 0 100 225
+730 465	50 345
+
+X Y WIDTH HEIGHT
+
+X, Y -> Object position
+WIDTH HEIGHT -> Object size
